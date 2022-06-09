@@ -1,0 +1,10 @@
+.idea 
+venv
+data
+
+__pycache__/
+*.pyc
+
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
+**/.idea/usage.statistics.xml

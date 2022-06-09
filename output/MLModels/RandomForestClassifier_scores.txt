@@ -1,0 +1,5 @@
+RandomForestClassifier 
+Accuracy: 0.5908839779005525
+Precision: 0.5309734513274337
+F1-Score: 0.4061589676340566
+Negative log loss: -0.7058142847488913
